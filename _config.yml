@@ -100,7 +100,7 @@ text:
     coming_soon: 'Coming soon...'
   contact:
     email:    'Email Address'
-    content:  'Here you can ask me about your current or creating a new website.'
+    content:  'Here you can ask me about your current or a new website.'
     subject:  'New submission!'
     submit:   'Say Hello'
     ajax:
