@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Hi!
 permalink: /about/
 tags: about
 ---
 
-Hi, I’m Mike and I make websites.
+I’m Mike and I make websites.
 
 Plain and simple, no wild anecdotes, and no fancy programming language to confuse you with or flashy stuff to razzle dazzle you. The flashiness and razzling dazzling will get put on your site ;-).
 
